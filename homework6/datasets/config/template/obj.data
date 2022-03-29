@@ -1,0 +1,5 @@
+classes = classes_num
+train = train_path
+valid = valid_path
+names = names_path
+backup = backup_path
